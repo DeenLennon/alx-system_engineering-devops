@@ -31,3 +31,8 @@ One combination per line
 The output should be alpha ordered, starting with aa
 Do not print oo
 Your script file should contain maximum 64 characters
+13. a script that prints a number with two decimal places, followed by a new line.
+
+The number will be stored in the environment variable NUM.
+
+
