@@ -4,3 +4,7 @@
 3. If the path be beautiful, let us not ask where it leads
 4. Create a script that lists environment variables.
 5.  a script that lists all local variables and environment variables, and functions.
+6. a script that creates a new local variable.
+
+Name: BEST
+Value: School
