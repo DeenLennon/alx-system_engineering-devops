@@ -36,3 +36,4 @@ Your script file should contain maximum 64 characters
 The number will be stored in the environment variable NUM.
 
 
+A script that convert a number from base 10 to base 16
