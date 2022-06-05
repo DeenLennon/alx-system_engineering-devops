@@ -37,3 +37,4 @@ The number will be stored in the environment variable NUM.
 
 
 A script that convert a number from base 10 to base 16
+A script that encodes and decodes text using the rot13 encription.
