@@ -1,0 +1,9 @@
+1.	When we type google.com the browser will first figure out if it is a search DOM or a URL. It is a search DOM the browser does a search and if it is a URL the browser visits the page that establishes a connection to the page. In order to visit the page, the browser first determines which protocol and which port to connect to. That is if it is HTTPS (encrypted which is port 443) or HTTP (unencrypted which is port 80).
+If it is HTTPS the browser establishes a secure communication with an SSL security which involves strict transport security. 
+2.	DNS: Domain Name Server after the browser has establish a connection, the browser then makes a DNS query to ask for the IP address and then after establish a TCP connection which tells the IP address you are visiting, the port, the connection either HTTPS or HTTP etc and send the request to the gateway. 
+3.	Load-balancer: load balancing in the process of distributing a set of tasks over a set of resources, in order to make the overall processing more efficient. Load-balancer optimize the response time and avoid uneven overloading of some compute nodes. 
+4.	Web Server: A web server is a computer software and underlying hardware that accepts requests through HTTP protocol or the secure protocol HTTPS. 
+5.	Application Server: An application server is a server that hosts applications or software that delivers a business application through a communication protocol.
+6.	Database: A database is information that is set up for easy access, management and updating. A computer database typically store aggregations of data records or files that contain information, such as sales transactions, customer data, financials and product information.
+
+
