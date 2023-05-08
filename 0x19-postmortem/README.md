@@ -1,7 +1,7 @@
 API INFRASTRUCTURE OUTAGE
 In the course of this week I experienced an outage in my API infrastructure. Today I am providing an incident report that details the nature of the outage and my response.
 
-The following is the incident report for the Google API infrastructure outage that occurred on January 30, 2023. I understand this service issue has impacted my valued developers and users, and I apologize to everyone who was affected.
+The following is the incident report for the Google API infrastructure outage that occurred on April 25, 2023. I understand this service issue has impacted my valued developers and users, and I apologize to everyone who was affected.
 
 Issue Summary
 
